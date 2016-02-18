@@ -4,3 +4,5 @@
 
 ### February 27th, 2016
 <p> Our finally did a push to Github. :-)</p>
+
+## February 18th Clock-in 
